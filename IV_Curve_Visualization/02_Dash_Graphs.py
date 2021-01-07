@@ -18,7 +18,7 @@ References:
 Author: John Stayner
 2020-12-30
 
-""" 
+"""
 
 # Imports
 import pandas as pd
