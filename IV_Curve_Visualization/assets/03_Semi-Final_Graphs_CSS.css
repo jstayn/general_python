@@ -1,0 +1,37 @@
+ /*
+ CSS file to aid in layout of the semi-final product.
+
+ Author: John Stayner
+ 2021-01-06
+
+ Note: Most code here is copied from https://www.w3schools.com/howto/howto_css_two_columns.asp
+ */
+
+ /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+/* @media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+} */
+
+/* .row {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 48%;
+}
+
+.right {
+  width: 48%;
+} */
+
+h1 {
+  color: blue
+}
